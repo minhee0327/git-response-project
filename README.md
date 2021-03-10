@@ -6,6 +6,9 @@ GitHub 사이트의 메인 페이지를 반응형으로 작업합니다.
 
 [GitHub Responsive 예제](https://heropcode.github.io/GitHub-Responsive/)
 
+## 결과물 링크
+[](https://minhee0327.github.io/git-response-project/)
+
 ## 내용 설명
 - Heropcode 님 반응형 웹사이트 작업 실습 
 - 배포 (git) 연습
